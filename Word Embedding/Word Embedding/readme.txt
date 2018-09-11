@@ -1,0 +1,1 @@
+In this project we used French language dictionary, so even comments are in Fr. feel free to contact if needed. :)
