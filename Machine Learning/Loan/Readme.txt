@@ -1,0 +1,2 @@
+In this project, I have used the Loan dataset and applied on it different ML models like : SVM , KNN , Decision Tree,
+Boosting GBM, Gaussian Naive Bayes and Random Forest in order to compare the performance of each model.
